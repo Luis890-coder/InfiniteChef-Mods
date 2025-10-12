@@ -293,6 +293,14 @@ addIngredient("explosion", {
   hidden: true     
 });
 
+addIngredient("mustard_gas", {
+  color: "#C2C2C2",
+  a: 0.0,
+  shape: "biology_arm"
+  hidden: false
+  keywords: ["mustard_gas","mod","gas"]
+});
+
 addIngredient("nuke", {
     color: "#009400",
     shape: "atom",
